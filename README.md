@@ -141,7 +141,7 @@ cv2.destroyAllWindows()
 ### iii) Display the video by resizing the window
 </br>
 
-<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/13b05f9e-2b6d-4f5c-ba83-5d1fd7f5d7ad" />
+<<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/f0ac4053-a2f4-4555-99da-caa0bb288821" />
 
 </br>
 
@@ -149,7 +149,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 </br>
-<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/f0ac4053-a2f4-4555-99da-caa0bb288821" />
+img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/13b05f9e-2b6d-4f5c-ba83-5d1fd7f5d7ad" />
 
 </br>
 
