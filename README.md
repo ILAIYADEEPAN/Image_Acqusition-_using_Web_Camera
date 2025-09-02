@@ -117,29 +117,31 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-### Developed By: GOKUL PRAKASH M
-### Register No: 212223240041
+### Developed By: ILAIYADEEPAN K
+### Register No: 212223230080
 
 
 ## Output
 
 ### i) Write the frame as JPG image
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 203909" src="https://github.com/user-attachments/assets/5614433b-b6ca-434c-8612-aced0157b8ee" />
+<img width="512" height="411" alt="download" src="https://github.com/user-attachments/assets/42ddc217-ee7f-493f-8b75-9b8cbbd760aa" />
 
 </br>
 
 
 ### ii) Display the video
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204048" src="https://github.com/user-attachments/assets/c8b0fdd9-1966-4ef2-b7a1-d7efc0b6eec2" />
+
+<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/3dc8ca4d-ed84-409f-8721-454ab9e4cc94" />
 
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204235" src="https://github.com/user-attachments/assets/cbd00a2d-d285-4c5d-959a-8bd3003ace8e" />
+
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/13b05f9e-2b6d-4f5c-ba83-5d1fd7f5d7ad" />
 
 </br>
 
@@ -147,7 +149,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 </br>
-<img width="500" height="500" alt="Screenshot 2025-08-25 204334" src="https://github.com/user-attachments/assets/2d1e0b98-3788-4d5c-9ac7-98efe15ab98f" />
+<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/f0ac4053-a2f4-4555-99da-caa0bb288821" />
 
 </br>
 
