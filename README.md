@@ -149,7 +149,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 </br>
-img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/13b05f9e-2b6d-4f5c-ba83-5d1fd7f5d7ad" />
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/b63778e6-8818-4e17-bf85-ae3b0b9ff6dd" />
 
 </br>
 
