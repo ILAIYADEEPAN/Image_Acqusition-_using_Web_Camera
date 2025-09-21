@@ -1,4 +1,6 @@
 # EXP 02: Image Acquisition using Web Camera
+# Name: ILAIYADEEPAN K
+# REG NO : 212223230080
 
 ## Aim
  
